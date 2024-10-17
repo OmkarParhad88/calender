@@ -1,0 +1,8 @@
+<mvc:View controllerName="calender.controller.App"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <App id="idApp">
+
+    <Text text="App view"></Text>
+    </App>
+</mvc:View>

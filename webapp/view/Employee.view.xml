@@ -1,0 +1,43 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="calender.controller.Employee" displayBlock="true">
+    <Page title="Employee Attendance">
+        <content>
+            <Button xmlns="sap.m" text="Calendar" id="idCalendarBackButton" icon="sap-icon://calendar" press="onCalendarButtonPress" width="10rem"/>
+            <Table items="{data>/emp}" class="Border">
+                <columns>
+                    <Column class="Border">
+                        <header>
+                            <Label text="Date"/>
+                        </header>
+                    </Column>
+
+                    <Column>
+                        <header>
+                            <Label text="Omkar Parhad"/>
+                        </header>
+                    </Column>
+                    <Column>
+                        <header>
+                            <Label text="Pratik Dafal"/>
+                        </header>
+                    </Column>
+                    <Column>
+                        <header>
+                            <Label text="Rakesh Shingh"/>
+                        </header>
+                    </Column>
+
+                </columns>
+                <items>
+                    <ColumnListItem class="Border">
+                        <cells>
+                            <Text text="{data>date}"/>
+                            <Text text="{data>employees/OmkarParhad}"/>
+                            <Text text="{data>employees/PratikDafal}"/>
+                            <Text text="{data>employees/RakeshShingh}"/>
+                        </cells>
+                    </ColumnListItem>
+                </items>
+            </Table>
+        </content>
+    </Page>
+</mvc:View>

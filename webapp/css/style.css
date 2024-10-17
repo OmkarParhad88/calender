@@ -1,0 +1,13 @@
+/* Enter your custom styles here */
+.s4{
+    font-size:3rem;
+}
+
+.Border {
+    border: 1px solid #323232;
+    border-collapse: collapse;
+}
+
+.Border .sapMListTblCell {
+    border: 1px solid #ccc;
+}

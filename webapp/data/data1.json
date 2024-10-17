@@ -1,0 +1,548 @@
+{
+  "PratikDafal": [
+    {
+      "date": "2024-07-01",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-02",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-03",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-07-04",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-05",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-07-08",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-09",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-07-10",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-11",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-12",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-07-15",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-16",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-07-17",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-18",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-19",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-22",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-23",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-07-24",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-25",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-07-26",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-29",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-30",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-31",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-08-01",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-02",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-08-05",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-06",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-07",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-08",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-08-09",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-08-12",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-13",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-14",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-15",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-08-16",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-19",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-08-20",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-21",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-22",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-23",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-08-26",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-27",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-08-28",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-29",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-30",
+      "attendance": "Half-day"
+    }
+  ],
+  "RakeshShingh": [
+    {
+      "date": "2024-07-01",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-02",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-07-03",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-04",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-07-05",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-08",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-09",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-10",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-07-11",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-07-12",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-15",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-16",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-07-17",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-18",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-19",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-07-22",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-23",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-24",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-07-25",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-26",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-29",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-07-30",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-31",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-08-01",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-02",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-05",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-06",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-08-07",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-08-08",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-09",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-12",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-13",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-08-14",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-15",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-08-16",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-19",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-20",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-08-21",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-22",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-23",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-08-26",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-27",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-28",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-08-29",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-30",
+      "attendance": "Half-day"
+    }
+  ],
+  "OmkarParhad": [
+    {
+      "date": "2024-07-01",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-02",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-03",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-07-04",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-07-05",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-08",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-07-09",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-10",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-11",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-07-12",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-15",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-16",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-17",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-07-18",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-07-19",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-22",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-23",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-24",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-07-25",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-26",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-29",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-07-30",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-07-31",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-08-01",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-02",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-08-05",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-06",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-07",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-08-08",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-09",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-12",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-08-13",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-14",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-15",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-08-16",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-19",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-08-20",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-21",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-22",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-23",
+      "attendance": "Half-day"
+    },
+    {
+      "date": "2024-08-26",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-27",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-28",
+      "attendance": "Absent"
+    },
+    {
+      "date": "2024-08-29",
+      "attendance": "Present"
+    },
+    {
+      "date": "2024-08-30",
+      "attendance": "Half-day"
+    }
+  ]
+}

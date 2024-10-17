@@ -1,0 +1,25 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="calender.controller.View1" displayBlock="true" xmlns:core="sap.ui.core" xmlns:u="sap.ui.unified">
+    <Page id="idPage" title="{i18n>title}">
+        <content>
+            <ComboBox id="idComboBox" width="200px" selectedKey="OmkarParhad" placeholder="Select Employee" selectionChange="onComboBoxOnSelectionChange">
+                <items>
+                    <core:Item key="OmkarParhad" text="Omkar Parhad"/>
+                    <core:Item key="PratikDafal" text="Pratik Dafal"/>
+                    <core:Item key="RakeshShingh" text="Rakesh Shingh"/>
+                </items>
+            </ComboBox>
+            
+            <Button xmlns="sap.m" text="Items" id="idItemsButton" icon="sap-icon://accelerated" press="onItemsButtonPress" width="10rem"/>
+
+            <u:Calendar showWeekNumbers="false" id="idCalendar" months="2" width="100%" legend="legend"/>
+            <u:CalendarLegend id="idCalendarLegend">
+                <u:items>
+                    <u:CalendarLegendItem text="Absent" type="Type01"/>
+                    <u:CalendarLegendItem text="Present" type="Type08"/>
+                    <u:CalendarLegendItem text="Half day" type="Type10"/>
+                </u:items>
+            </u:CalendarLegend>
+
+        </content>
+    </Page>
+</mvc:View>
